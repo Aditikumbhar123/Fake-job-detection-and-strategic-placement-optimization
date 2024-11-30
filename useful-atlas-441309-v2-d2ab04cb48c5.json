@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "useful-atlas-441309-v2",
+  "private_key_id": "d2ab04cb48c5a83ca1e9411c5b29f60e797623d9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUa3Qvvd3RyrYo\ni+AtmIhBlPOJ7je7mlt+6vzDoFWkulu/H01ALIL4BDHaDsKDKVI0XRixw6GxOBrQ\nnoH4GbzZ39u8MAwSIP/PgS1h7ltG1uFJgz+I+ks0GynHg+QQ/qg9c7z5gvGNwpH8\n6oqAbcOcMZmxx7wumvwO6hVaUmAWI+Y1RQ5qbZ8x1j/zapyHrHbe4+OQ8TITpxzk\nSCzmLdM3z6dR5LeX4Jbmf3zhHZiYYZZrsi6xp8RfA5AHu6wlmg/3mxwR63E5aC4t\njZOpDPh5KxkCnohIgrAzIB7KBNooPSLRyLoPUzCvvxPlNAf2u+rp9dOlrkwSmIcL\nu8RByB/TAgMBAAECggEADFzjAbMMDhSXlcsI8mNZPjU9EAkyxUK3Slwij90EJUOM\nrt/ZnHXYtvYKfQJru2cuvMPgcbY8+rkUqrn5U4Q5UeCuuf86kiwDgvJcqGKlYcI2\nY9w156AJsZ5tnXvj/HJp6yx/2jzJCCjj5jBXNxltiM4s4j0j9LHeOxPOkYZ5EH7u\niMyz5nYqdYwDGtCrfrkdbVVj7FPbJpeFgiEsPs6yiT5grT0feSoo9hZ05J9Zs8X0\n/kYsG+OXcJL9aTvtaSrSElmsPSbNQcQxQFUexkmCD94Tcz0Dk8F2rQXt/fhzWxON\nL9JsfScar4/PvqUjvIRFY9LVl+DOuR5DUxozLH/fmQKBgQDJ2Lx+piqgLR8daMSl\nMxdDrrs//SDzKId3OkZOQMTzZwVlAIuUKWksfLfympTTvmEPeT3NfYU3JOPF/NiN\n7z7iqUf9hEU/p5R+zURSkLnI3MSAhTYMGPZD2/tpb0C/OjwVSM2XtQbdvxgJlUMU\nPO+h2C9IoJ6GICuCrnQ32sciHQKBgQC8PT5LPsua6TZ4piOtW8aqy9vcGWGBEPu4\niEIBKWwACQVxvyONBpBzo9Dfhujjd93h9aK9rYNr4HzUZVTy7HxSEEtmo6QccLKr\njZG/vUnWZiMBSRkxuisYhCJc6kp9tnwX1aAwrPI/Bnt13jnnIItvGMyerqmDjA38\nqA1uu12mrwKBgE16SEBFAC+jokHjqTfQOKneNDoHq9IqSHVXhQ0ch3z2mnd+khU5\nIAnXhbQ16dKtTQxneXWbLLtSCaxBtc4le3n9iIijcQFSDgnuOL+Ilgen1jWO7IQQ\nQNcjZYm/DpdYfx+cZm5JKm2LoGptROZLzZ/OH7g9Dxxk1M7AsBOQgsdxAoGASRWq\nKwLNgG7NpFg0/+jjIIsX6MO99KOIaCQXJGZVtUnLYFdq0SVcTlmrDi5OG4r9je6V\n6fkFTowRS1GwgsTInAARll8wp44mAK9tiDlRAroTGzurWYBDnTgoM1UP6PFCCur5\nUAzF3SyCIMhQSOl82XySbYW48QceoxsIZBbBDKcCgYBiY4SQKU3TsuikttyguMIJ\nWr1ABZHguSizXTdG/FmDTnV/hlCtS3Ye0bdzZPLMjRlm+D+oQ8qBY34r5nh+X0WH\nCNoPQiZe5+/7Z7MvWI4CZDDr2jNG+Jlt1XFs6ojVp7O0Bn+tZTA3hDjraZ9ADHy8\n/P2x+kvbFlHAwuFczWL+WQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "flask-job-prediction-api-acces@useful-atlas-441309-v2.iam.gserviceaccount.com",
+  "client_id": "107479596417616390293",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flask-job-prediction-api-acces%40useful-atlas-441309-v2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
