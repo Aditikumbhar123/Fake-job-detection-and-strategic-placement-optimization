@@ -96,16 +96,16 @@ It combines **Machine Learning, NLP, and Generative AI** to build a complete int
 ---
 
 ## 🚀 Installation & Setup
-1.Create virtual environment
+1.Create virtual environment:
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 
-2.Install dependencies
+2.Install dependencies:
 pip install -r requirements.txt
 
-3.Add API Key
+3.Add API Key:
 GEMINI_API_KEY=your_api_key_here
 
-4.Run the application
+4.Run the application:
 python app.py
